@@ -1,0 +1,3 @@
+This folder contains the models used in the practice of Financial Stock Data.
+
+It is empty because Github did not lend me to upload them due to they were very big archives
