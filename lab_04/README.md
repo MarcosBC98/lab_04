@@ -20,6 +20,7 @@ https://www.kaggle.com/cnic92/200-financial-indicators-of-us-stocks-20142018
 
 NOTEBOOKS
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
++ Data_Dictionary - Dictionary with the definitions of the variables included in the dataset.
 + 2014_Data_Engineering - We analyze and treat this year's variables by sector
 + 2015_Data_Engineering - We analyze and treat this year's variables by sector
 + 2016_Data_Engineering - We analyze and treat this year's variables by sector
